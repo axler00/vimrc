@@ -1,0 +1,5 @@
+[kamailio]
+/opt/workspace/github/kamailio/
+[sipp]
+/opt/workspace/github/sipp/src
+
